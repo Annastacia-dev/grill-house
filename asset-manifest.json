@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/grill-house/static/css/main.03481d23.css",
+    "main.js": "/grill-house/static/js/main.d7125af2.js",
+    "static/media/404 error with portals.gif": "/grill-house/static/media/404 error with portals.04fd0b9967473cbe6191.gif",
+    "index.html": "/grill-house/index.html",
+    "main.03481d23.css.map": "/grill-house/static/css/main.03481d23.css.map",
+    "main.d7125af2.js.map": "/grill-house/static/js/main.d7125af2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.03481d23.css",
+    "static/js/main.d7125af2.js"
+  ]
+}
