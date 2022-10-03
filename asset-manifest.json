@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/react-grill-house/static/css/main.03481d23.css",
-    "main.js": "/react-grill-house/static/js/main.be1daf99.js",
+    "main.js": "/react-grill-house/static/js/main.a184a90c.js",
     "static/media/404 error with portals.gif": "/react-grill-house/static/media/404 error with portals.04fd0b9967473cbe6191.gif",
     "index.html": "/react-grill-house/index.html",
     "main.03481d23.css.map": "/react-grill-house/static/css/main.03481d23.css.map",
-    "main.be1daf99.js.map": "/react-grill-house/static/js/main.be1daf99.js.map"
+    "main.a184a90c.js.map": "/react-grill-house/static/js/main.a184a90c.js.map"
   },
   "entrypoints": [
     "static/css/main.03481d23.css",
-    "static/js/main.be1daf99.js"
+    "static/js/main.a184a90c.js"
   ]
 }
